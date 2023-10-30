@@ -1,20 +1,13 @@
 ### Hi there 👋
 
-<!--
-**smitster1403/smitster1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my github account.
 
-Here are some ideas to get you started:
+### I am currently a Computer Science Major with the University of Calgary in my third year. Love working with tech hence my decision to go into Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Welcome to my github account.
+🔭 I’m currently working on a website with some friends for a course project at UofC using SQL for the database, Javascript and REACT technologies for the fullstack development experience.
 
-I am currently a Computer Science Major with the University of Calgary in my third year.
+🌱 I’m currently learning REACT, Javascript and relearning SQL to explore interest as a fullstack developer.
+
+
+
 
