@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my github account.
+
+I am currently a Computer Science Major with the University of Calgary in my third year.
+
