@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a website for a school project using javascript, SQL and REACT technologies.**
 
-- 🌱 I’m currently learning **REACT, Javascript, C/C++, SQL and**
+- 🌱 I’m currently learning **ETL Pipelines, AI Development and Security**
 
 - 📫 How to reach me **https://www.linkedin.com/in/smitkumar-s-7ab006142/**
 
