@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smitkumar Saraiya</h1>
 <h3 align="center">I like tech, food and film.</h3>
 
-- 🔭 I’m currently working on **a website for a school project using javascript, SQL and REACT technologies.**
+- 🔭 I’m currently working on **an Event Management Platform powered by AI to streamline event management logistics and enhance the experience of attending events.**
 
 - 🌱 I’m currently learning **ETL Pipelines, AI Development and Security**
 
