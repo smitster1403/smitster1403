@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an Event Management Platform powered by AI to streamline event management logistics and enhance the experience of attending events.**
 
-- 🌱 I’m currently learning \& developing**Distributed Systems, Machine learning pipelines, machine learning models, natural language processing**
+- 🌱 I’m currently learning \& developing **Distributed Systems, Machine learning pipelines, machine learning models, natural language processing**
 
 - 📫 How to reach me **https://www.linkedin.com/in/smitkumar-s-7ab006142/**
 
