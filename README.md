@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/smitkumar-s-7ab006142/**
 
+- This is my website **https://smit-kohl-two.vercel.app/**
+
 - More projects to be uploaded soon!
 
 <h3 align="left">Connect with me:</h3>
