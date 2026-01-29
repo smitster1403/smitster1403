@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smitkumar Saraiya</h1>
 <h3 align="center">I like tech, food and film.</h3>
 
-- 🔭 I’m currently working on **a Scam detection platorm to help prevent future scams/frauds from happening at the individual, corporate and enterprise level**
+- 🔭 I’m currently working on **a Scam detection platorm to help prevent future scams/frauds from occuring at the individual, corporate and enterprise level**
 
 - 🌱 I’m currently learning \& developing **Fullstack development, game development, operating system development and VR/AR tech.**
 
