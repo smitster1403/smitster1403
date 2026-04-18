@@ -1,46 +1,61 @@
-<h1>Smit Saraiya</h1>
+## Hey, I'm Smit 👋
 
-Computer Science grad from University of Calgary. I build full-stack products, NLP pipelines, and the occasional bare-metal game engine. Based in Calgary, AB — open to remote & hybrid roles.
+I'm a CS grad from the University of Calgary who likes building things that actually work — full-stack apps, ML pipelines, and once, a game running on bare metal with no operating system.
 
-🌐 [Portfolio](https://smit-kohl-two.vercel.app/) · [LinkedIn](https://linkedin.com/in/smit-s-7ab006142/) · [Email](mailto:saraiyasmit@gmail.com)
+When I'm not coding, I'm probably thinking about food or watching a film. Based in Calgary, AB.
 
----
-
-## What I'm working on
-
-**ScamDetect** `active` — Full-stack developer on a fraud & scam prevention platform. Building the marketing site with React 19, Next.js 16 App Router, Tailwind CSS, and Vercel.
-
-**On-device AI assistant** `exploring` — Researching fully local mobile inference: transformer architecture (RoPE, SwiGLU, KV caching), quantization, and deployment via Core ML / TFLite. No cloud, no API calls.
-
-**DSA & systems** `ongoing` — Working through algorithms (greedy, combinatorics, interval problems), debugging across Python, TypeScript, and SQL, and building intuition for scalable system design.
+🌐 [Website](https://smit-kohl-two.vercel.app/) · [LinkedIn](https://linkedin.com/in/smit-s-7ab006142/) · [Email](mailto:saraiyasmit@gmail.com)
 
 ---
 
-## Selected projects
+## What I'm up to right now
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Financial news summarizer** | End-to-end NLP pipeline with FinBERT sentiment analysis, 4 summarization algorithms, 200+ articles/day, 60% efficiency gain | Python, HuggingFace, Next.js |
-| **SyncSpace** | Distributed leader-follower system with automatic failover, Berkeley clock sync, heartbeat monitoring across multiple server nodes | Java, JavaFX, Socket programming |
-| **Inventory management SaaS** | Multi-tenant platform for 4 business entities — Azure AD auth, connection pooling, concurrent SQL access | Next.js 15, Azure SQL, TypeScript |
-| **Donkey Kong on bare-metal RPi4** | 2D platformer with custom framebuffer (1280×720, 32-bit ARGB), GPIO SNES controller drivers, collision detection — no OS | C, Raspberry Pi 4 |
-| **Medical transcription classifier** | NLP pipeline classifying 4,999 records across 40 specialties, 95% accuracy using BERT, SMOTE, TF-IDF & Word2Vec | Python, BERT, PyTorch |
-| **AI-driven events platform** | Scalable platform at TechStart with Next.js, TypeScript, AWS S3; led AI feature integration with cross-functional stakeholders | Next.js, TypeScript, AWS S3 |
+**Scam prevention platform @ ScamDetect** `active`
+Building the marketing site for a platform that helps people and businesses stay safe from fraud. React 19 + Next.js 16 + Tailwind.
 
----
+**On-device AI (no cloud, no API)** `exploring`
+Exploring what it takes to run a real AI model entirely on a phone — transformer architecture, quantization, Core ML / TFLite. Ambitious but fun.
 
-## Stack
-
-**Languages** — Python · TypeScript · Java · SQL · C/C++
-
-**Frontend & backend** — React · Next.js · Node.js · Tailwind CSS · RESTful APIs
-
-**Data & ML** — TensorFlow · PyTorch · HuggingFace · PySpark · Pandas · BERT
-
-**Infrastructure & databases** — PostgreSQL · MySQL · MongoDB · Azure · AWS S3 · Vercel · GCP
+**Getting sharper at algorithms + systems** `ongoing`
+Grinding DSA (greedy, combinatorics, interval problems) and debugging across Python, TypeScript, and SQL. It's a process.
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=smitster1403&show_icons=true&locale=en&layout=compact" alt="smitster1403" /></p>
+## Some things I've built
 
-More projects uploading soon.
+*A mix of serious, silly, and "why did I do this to myself"*
+
+🎮 **Donkey Kong on a Raspberry Pi 4 — with no OS**
+Wrote a full 2D platformer in C, directly to the framebuffer (1280×720, 32-bit colour). Custom GPIO drivers for a real SNES controller. Probably my favourite thing I've ever built.
+`C` `Bare-metal` `RPi4`
+
+📰 **Financial news summarizer**
+Scrapes 200+ articles a day, runs them through 4 summarization algorithms + FinBERT sentiment analysis, and surfaces it all in a clean UI. Cuts reading time by ~60%.
+`Python` `HuggingFace` `Next.js`
+
+🔗 **SyncSpace — distributed collaborative sessions**
+Multi-server system with automatic leader election, failover, and Berkeley clock sync so everyone stays in sync. Built because I wanted to understand distributed systems properly.
+`Java` `JavaFX` `Socket programming`
+
+🏥 **Medical transcription classifier**
+NLP pipeline classifying 4,999 medical notes across 40 specialties. Got to 95% accuracy using BERT + SMOTE to handle the messy class imbalance.
+`Python` `BERT` `PyTorch`
+
+🛒 **Full-stack inventory & e-commerce platforms**
+Multi-tenant SaaS (Azure AD auth, connection pooling) and a full e-commerce site (13+ relational tables, role-based auth, order/payment flows).
+`Next.js` `Azure SQL` `Node.js` `MySQL`
+
+---
+
+## Tools I reach for
+
+**Languages** — Python · TypeScript · Java · SQL · C/C++  
+**Frontend / backend** — React · Next.js · Node.js · Tailwind CSS  
+**ML / data** — PyTorch · TensorFlow · HuggingFace · PySpark · BERT  
+**Infra / cloud** — PostgreSQL · Azure · AWS S3 · Vercel · MongoDB  
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=smitster1403&show_icons=true&locale=en&layout=compact" alt="smitster1403" />
+
+More projects coming soon. Feel free to poke around — [saraiyasmit@gmail.com](mailto:saraiyasmit@gmail.com)
