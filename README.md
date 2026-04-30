@@ -56,6 +56,4 @@ Multi-tenant SaaS (Azure AD auth, connection pooling) and a full e-commerce site
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=smitster1403&show_icons=true&locale=en&layout=compact" alt="smitster1403" />
-
 More projects coming soon. Feel free to poke around — [saraiyasmit@gmail.com](mailto:saraiyasmit@gmail.com)
